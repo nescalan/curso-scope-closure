@@ -1,7 +1,7 @@
 # curso-scope-closure
 
 - Scope
-  -Local scope
+  - What's a scope
 - Closure
 - Hoisting
 - Debugging
